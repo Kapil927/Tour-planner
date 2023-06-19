@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Tour-planner/static/css/main.decdb0db.css",
+    "main.js": "/Tour-planner/static/js/main.4ae75794.js",
+    "index.html": "/Tour-planner/index.html",
+    "main.decdb0db.css.map": "/Tour-planner/static/css/main.decdb0db.css.map",
+    "main.4ae75794.js.map": "/Tour-planner/static/js/main.4ae75794.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.decdb0db.css",
+    "static/js/main.4ae75794.js"
+  ]
+}
